@@ -1,0 +1,105 @@
+[  {
+  "id": 1,
+  "title": "Inception",
+  "description": "A thief enters dreams to plant an idea.",
+  "posterURL": "https://fr.web.img2.acsta.net/medias/nmedia/18/72/34/14/19476654.jpg",
+  "trailerURL": "https://www.youtube.com/embed/8hP9D6kZseM",
+  "rating": 8.8
+},
+  {
+    "id": 2,
+    "title": "The Dark Knight",
+    "description": "Batman battles the Joker in Gotham City.",
+    "posterURL": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+    "trailerURL": "https://www.youtube.com/embed/EXeTwQWrcwY",
+    "rating": 9
+  },
+  {
+    "id": 3,
+    "title": "Interstellar",
+    "description": "A team of explorers travels through a wormhole in space in an attempt to ensure humanity's survival.",
+    "posterURL": "https://fr.web.img6.acsta.net/pictures/14/09/24/12/08/158828.jpg",
+    "trailerURL": "https://www.youtube.com/embed/zSWdZVtXT7E",
+    "rating": 8.6
+  },
+  {
+    "id": 4,
+    "title": "Parasite",
+    "description": "Greed and class discrimination threaten the symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+    "posterURL": "https://fr.web.img5.acsta.net/c_310_420/pictures/20/02/12/13/58/3992754.jpg",
+    "trailerURL": "https://www.youtube.com/embed/zSWdZVtXT7E",
+    "rating": 8.6
+  },
+  {
+    "id": 5,
+    "title": "The Shawshank Redemption",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "posterURL": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "trailerURL": "https://www.youtube.com/embed/PLl99DlL6b4",
+    "rating": 9.3
+  },
+  {
+    "id": 6,
+    "title": "The Godfather",
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "posterURL": "https://m.media-amazon.com/images/M/MV5BYTJkNGQyZDgtZDQ0NC00MDM0LWEzZWQtYzUzZDEwMDljZWNjXkEyXkFqcGc@._V1_.jpg",
+    "trailerURL": "https://www.youtube.com/embed/UaVTIH8mujA",
+    "rating": 9.2
+  },
+  {
+    "id": 7,
+    "title": "Pulp Fiction",
+    "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "posterURL": "https://imgcdn.stablediffusionweb.com/2024/9/11/55f8fb4f-64d7-43ec-aa2e-0da2c01e1426.jpg",
+    "trailerURL": "https://www.youtube.com/embed/tGpTpVyI_OQ",
+    "rating": 8.9
+  },
+  {
+    "id": 8,
+    "title": "Avengers: Endgame",
+    "description": "After the devastating events of Infinity War, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+    "posterURL": "https://fr.web.img4.acsta.net/r_1920_1080/pictures/19/04/03/09/30/1630096.jpg",
+    "trailerURL": "https://www.youtube.com/embed/TcMBFSGVi1c",
+    "rating": 8.4
+  },
+  {
+    "id": 9,
+    "title": "Joker",
+    "description": "In Gotham City, mentally troubled comedian Arthur Fleck embarks on a downward spiral of social revolution and bloody crime.",
+    "posterURL": "https://resizing.flixster.com/YrgoDA1swmWoj7JbfGNWsJ1Y4vc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzIzNjM3NmRhLWZiOWUtNGFjNC1hMTViLTM1ZWEzNWRkMzI1Zi53ZWJw",
+    "trailerURL": "https://www.youtube.com/embed/zAGVQLHvwOY",
+    "rating": 8.5
+  },
+  {
+    "title": "Gladiator II",
+    "description": "After his home is conquered by the tyrannical emperors who now lead Rome, Lucius is forced to enter the Colosseum and must look to his past to find strength to return the glory of Rome to its people",
+    "posterURL": "https://www.cinezik.org/critiques/jaquettes/gladiator22024010613.jpg",
+    "trailerURL": "https://www.youtube.com/embed/YZf8zpchbXE",
+    "rating": 4,
+    "id": 11
+  },
+  {
+    "title": "Wicked",
+    "description": "Elphaba, a misunderstood young woman because of her green skin, and Glinda, a popular girl, become friends at Shiz University in the Land of Oz. After an encounter with the Wonderful Wizard of Oz, their friendship reaches a crossroads.",
+    "posterURL": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_.jpg",
+    "trailerURL": "https://www.youtube.com/embed/6COmYeLsz4c",
+    "rating": 2,
+    "id": 12
+  },
+  {
+    "title": "Deadpool & Wolverine",
+    "description": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+    "posterURL": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Deadpool_%26_Wolverine_poster.jpg/220px-Deadpool_%26_Wolverine_poster.jpg",
+    "trailerURL": "https://www.youtube.com/embed/73_1biulkYk",
+    "rating": 5,
+    "id": 13
+  },
+  {
+    "title": "The Substance",
+    "description": "Have you ever dreamt of a better version of yourself? You. Only better in every way. Seriously. You ve got to try this new product. It s called The Substance. It changed my life. It generates another you. A new, younger, more beautiful, more perfect, you. And there s only one rule: You share time. One week for you. One week for the new you. Seven days each. A perfect balance. Easy. Right? If you respect the balance... what could possibly go wrong?",
+    "posterURL": "https://fr.web.img6.acsta.net/c_310_420/img/dc/5e/dc5e71f5a015d5d24f0135ee600ac27b.jpg",
+    "trailerURL": "https://www.youtube.com/embed/LNlrGhBpYjc",
+    "rating": 3,
+    "id": 14
+  }
+]
